@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mono Char</string>
+    <string name="full_name">Daffa Tungga Wisesa</string>
+    <string name="email_address">daffatw2003@gmail.com</string>
+    <string name="scroll_to_top">Scroll to Top</string>
+    <string name="search_char">Search One Piece Character</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_about">About</string>
+    <string name="home_page">home_page</string>
+    <string name="about_page">about_page</string>
+    <string name="about_me">About Me</string>
+    <string name="description">Character\'s Description : \n</string>
+</resources>
